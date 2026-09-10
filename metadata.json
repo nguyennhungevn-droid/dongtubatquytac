@@ -2,6 +2,7 @@
   "name": "Học Động Từ Bất Quy Tắc",
   "description": "Ứng dụng học 5 động từ bất quy tắc mỗi ngày, luyện tập điền từ và sắp xếp chữ, trắc nghiệm tính giờ có lưu điểm.",
   "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
-
