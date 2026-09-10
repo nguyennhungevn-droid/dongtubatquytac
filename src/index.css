@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Times New Roman", Times, "Tinos", "Liberation Serif", serif;
+  --font-serif: "Times New Roman", Times, "Tinos", "Liberation Serif", serif;
+}
+
+html {
+  font-size: 20px; /* Tăng 4 pixel so với mặc định 16px (16px + 4px = 20px) */
+  font-family: "Times New Roman", Times, "Tinos", "Liberation Serif", serif;
+}
+
+body {
+  font-family: "Times New Roman", Times, "Tinos", "Liberation Serif", serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+button, input, optgroup, select, textarea {
+  font-family: inherit;
+}
